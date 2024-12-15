@@ -46,6 +46,8 @@ class LoginActivity : AppCompatActivity() {
                                     prefManager.saveRole(i.role)
                                     checkLoginStatus()
                                     finish()
+                                } else {
+                                    Toast.makeText(this@LoginActivity, "Your credentials doesn't match", Toast.LENGTH_SHORT).show()
                                 }
                             }
                         } else {
