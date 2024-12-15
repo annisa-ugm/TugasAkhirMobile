@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna dasar -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#473333</color>
+    <color name="red">#FF0026</color>
+    <color name="dark_brown">#3C2F2A</color>
+    <color name="light_brown">#E7CDC2</color>
+    <color name="accent_brown">#6A4E44</color>
+    <color name="cream">#F5F1E1</color>
+    <color name="button_brown">#8C5E4D</color>
+    <color name="text_color">#3D2A1A</color>
+    <color name="text_hint">#8C5E4D</color>
+</resources>
